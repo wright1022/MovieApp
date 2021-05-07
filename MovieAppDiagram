@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T00:18:50.102Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="QdDFdCmJZiTINIEDjacn" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T00:21:28.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="bQAcnca5TixJ_WWgK_1B" version="14.6.10" type="github">
   <diagram id="72bpdMieYGChczYcnDJF" name="Page-1">
     <mxGraphModel dx="1038" dy="2748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,13 +65,10 @@
           <mxGeometry x="210" y="-1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OUN1tfhGZSvJPekB0N6y-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="490" y="-1920" width="300" height="290" as="geometry" />
+          <mxGeometry x="480" y="-1920" width="300" height="290" as="geometry" />
         </mxCell>
         <mxCell id="OUN1tfhGZSvJPekB0N6y-33" value="&lt;font style=&quot;font-size: 16px&quot;&gt;User Account&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="-1910" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="OUN1tfhGZSvJPekB0N6y-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OUN1tfhGZSvJPekB0N6y-33" target="OUN1tfhGZSvJPekB0N6y-33">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OUN1tfhGZSvJPekB0N6y-35" value="Favorite/Liked Movies" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="490" y="-1870" width="120" height="60" as="geometry" />
@@ -81,9 +78,6 @@
         </mxCell>
         <mxCell id="OUN1tfhGZSvJPekB0N6y-37" value="Suggestions" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="610" y="-1840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="OUN1tfhGZSvJPekB0N6y-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OUN1tfhGZSvJPekB0N6y-27" target="OUN1tfhGZSvJPekB0N6y-27">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OUN1tfhGZSvJPekB0N6y-39" value="Account Info" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="610" y="-1780" width="120" height="60" as="geometry" />
